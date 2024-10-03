@@ -1,0 +1,8 @@
+.option_btn {
+  padding: 5px;
+  margin-left: 25px;
+}
+.option_btn + .option_btn {
+  margin-left: 5px;
+  margin-bottom: 20px;
+}
